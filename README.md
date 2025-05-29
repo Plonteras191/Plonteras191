@@ -1,6 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
 <h1 align="center">Hi 👋, I'm John Kristoffer Plonteras</h1>
 <h3 align="center">An aspiring Frontend Developer and BSIT student at Tagoloan Community College</h3>
-<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif">
 
 - 🔭 I’m currently working on [Air Conditioning Appointment System](https://github.com/Plonteras191/FE-LARAVEL-AC-SYSTEM.git)
 
