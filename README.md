@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif](https://www.figma.com/proto/yUWhRbKvoas6LfBge5g7PK/README-Github-Banner--Community-?node-id=0-67&p=f&t=nlzdOSThCQxDxhbe-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)](https://www.figma.com/proto/yUWhRbKvoas6LfBge5g7PK/README-Github-Banner--Community-?node-id=0-67&p=f&t=gO53ZOK5Qdj2WhSk-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)">
 <h1 align="center">Hi 👋, I'm John Kristoffer Plonteras</h1>
 <h3 align="center">An aspiring Frontend Developer and BSIT student at Tagoloan Community College</h3>
 
