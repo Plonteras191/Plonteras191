@@ -1,3 +1,4 @@
+![GitHub Banner](banner.png)
 # 💫 About Me:
 🔭 I’m currently working on AC Appointment System<br>👯 I’m looking to collaborate on any future project<br>
 
