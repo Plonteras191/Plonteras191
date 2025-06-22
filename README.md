@@ -50,7 +50,6 @@ Feel free to open issues or reach out via social links above.
 ## 📈 GitHub Stats
 <!-- You can include dynamic GitHub stats cards if you like -->
 ![](https://github-readme-stats.vercel.app/api?username=Plonteras191&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Plonteras191&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Plonteras191&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ⚡ Fun Fact
